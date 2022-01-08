@@ -1,5 +1,5 @@
 # notebooks
 This repository contain jupyter notebooks
-## Netflix Trend
-## Linear Regression
-## Unsupervised learning
+1. Netflix Trend
+2. Linear Regression
+3. Unsupervised learning
